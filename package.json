@@ -1,0 +1,23 @@
+{
+  "name": "HiroTylerSandbox",
+  "version": "1.0.0",
+  "description": "Dunno what its gonna be yet but its gonna be something\r ## Where is the WIKI?\r     The wiki is located on archbee.io. To request access please send a msg to\r     tylerjgabb on github.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TylerJGabb/HiroTylerSandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TylerJGabb/HiroTylerSandbox/issues"
+  },
+  "homepage": "https://github.com/TylerJGabb/HiroTylerSandbox#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
